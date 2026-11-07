@@ -3,9 +3,6 @@
 A powerful, automated Instagram scraper and profile cloner built with Python, Selenium, and `undetected-chromedriver`. It allows you to scrape a target user's followers list, filter accounts, download high-definition profile pictures, extract complete profile metadata into JSON, capture profile screenshots, and download story highlights.
 
 ---
-
-## 🌟 Tool Description
-> An advanced automated Instagram scraper and cloner powered by Selenium and `undetected-chromedriver` to bypass bot detection. Extract target followers, download high-resolution profile avatars, capture profile screenshots, parse exact follower/following counts and full metadata into clean JSON, and automatically navigate through story highlights to download highlight media with proxy support and customizable filters.
 ## 🚀 Features
 
 - **Anti-Bot Bypass**: Powered by `undetected-chromedriver` and persistent Chrome profiles to prevent login hurdles and detection.
