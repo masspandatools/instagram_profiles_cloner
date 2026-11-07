@@ -58,7 +58,7 @@ clone/
 ### 1. Requirements
 - Python 3.8+
 - Google Chrome installed
-- Compatible `chromedriver.exe` placed in the project directory (or in PATH). Install it from [Chrome Official WebDriver Download Page](https://developer.chrome.com/docs/chromedriver/downloads)
+- Compatible `chromedriver.exe` placed in the project directory (or in PATH). Download it from [Chrome Official WebDriver Download Page](https://developer.chrome.com/docs/chromedriver/downloads)
 
 ### 2. Install Python Dependencies
 
