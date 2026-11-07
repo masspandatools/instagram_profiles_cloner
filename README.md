@@ -132,6 +132,7 @@ selenuim_clone(
 | `profile_screenshot` | `bool` | `False` | Capture and save a full browser screenshot of each profile (`screenshot.png`). |
 | `proxy` | `str` | `""` | Optional HTTP/HTTPS proxy string for media downloads. |
 | `override_duplicate` | `bool` | `False` | When `True`, re-scrapes and updates accounts that already exist in the clone directory. |
+| `headless  ` | `bool` | `False` | When `True`, it willn't show the web driver scrolling. You should see actions in 10s for main page to load. It may not work in some cases. |
 
 ---
 
