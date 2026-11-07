@@ -1,4 +1,4 @@
-# Instagram Profile Cloner
+# Instagram Profile Cloner V1.0.0
 
 A powerful, automated Instagram scraper and profile cloner built with Python, Selenium, and `undetected-chromedriver`. It allows you to scrape a target user's followers list, filter accounts, download high-definition profile pictures, extract complete profile metadata into JSON, capture profile screenshots, and download story highlights.
 
