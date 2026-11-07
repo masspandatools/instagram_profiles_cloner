@@ -102,6 +102,7 @@ python instagram_profile_cloner.py target_username \
     --download-highlights \
     --profile-screenshot \
     --override-duplicate \
+    --headless \
     --proxy "http://127.0.0.1:7890"
 
 # Allow accounts without profile pictures:
