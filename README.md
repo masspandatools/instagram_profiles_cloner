@@ -124,7 +124,7 @@ selenuim_clone(
 | Parameter | Type | Default | Description |
 |---|---|---|---|
 | `username` | `str` | *Required* | Target Instagram username whose followers will be scraped. |
-| `tags` | `list` / `str` | *Required* | Tag or list of tags used to group cloned profiles under `clone/<tags>/`. |
+| `tags` | `list` | *Required* | Tag or list of tags used to group cloned profiles under `clone/<tags>/`. |
 | `count` | `int` | `12` | Target follower count to scrape. Set to `0` for infinite scrolling (up to 1,000 scrolls). |
 | `must_have_profile_picture` | `bool` | `True` | Skip profiles that have default avatars or are listed in `no-pic.txt`. |
 | `must_have_highlights` | `bool` | `False` | Skip profiles that do not have any story highlights. |
